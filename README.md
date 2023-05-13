@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bjlanza 👋
+
+Cybersecurity, Blockchaing, Teaching, Maker, Creative Coding...
 
 <!--
 **bjlanza/bjlanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
